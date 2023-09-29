@@ -1,8 +1,8 @@
-👋🏼 Hey! I’m Allison—a full-stack developer with a passion for positivity, collaboration, problem-solving, and creativity. I started dabbling in code out of the desire to build a brighter future for my family. After years of hustling my heart out and wearing countless hats as a musician, I was ready for a more sustainable career. Not to mention my insatiable hunger to learn and grow—if you stop growing, you start dying, right?
+I’m Allison — a rose-colored glasses kind of software developer, passionate about investing energy into what makes the world a better place. I constantly search for ways to grow, change, and improve, and work hard to flourish wherever I am while nourishing those around me.
 
-🏫 Well, I’m rounding the corner on completing a 12-month apprenticeship at Nashville Software School with a tech stack of JavaScript, HTML, CSS, React, Next.js, Python, Django, SQL, and Git/GitHub. I am eager to jump into my first role and contribute to the wild and wonderful world of software development.
+Over the past decade, I have walked many paths that allowed me to impact the lives of others through music, education, and publishing. On my current journey as a developer, I continue to seek opportunities to bring positive change to the world through code. 
 
-🚀 With a unique background in music, education, and publishing, I have a strong foundation of communication, collaboration, and detail-oriented skills. My unwavering work ethic and drive to iterate and improve has guided me throughout my career journey. I am looking for a company where I can learn, grow, and surpass expectations set for me. Let’s connect—I would love to explore opportunities together.
+My diverse career experiences have feathered my nest with integral skills like communication, collaboration, detail-orientation, and time-management. Combined with my unwavering work ethic, full-stack technical skills, and emotional intelligence, I'm looking forward to exploring opportunities to make a difference as a developer.
 
 blumen.allison@gmail.com
 
