@@ -1,8 +1,8 @@
-I’m Allison — a rose-colored glasses kind of software developer, passionate about investing energy into what makes the world a better place. I constantly search for ways to grow, change, and improve, and work hard to flourish wherever I am while nourishing those around me.
+I’m Allison — a software developer committed to using my technical skills for the wellbeing of all. With a positive spirit and an eagerness to grow, I thrive in both collaborative and independent environments, continuously iterating and improving while uplifting those around me. 
 
-Over the past decade, I have walked many paths that allowed me to impact the lives of others through music, education, and publishing. On my current journey as a developer, I continue to seek opportunities to bring positive change to the world through code. 
+Drawing from my background in music, education, and curriculum editing, I have a heart for projects that prioritize people and am passionate about creating products and experiences that foster joy and enrich lives. 
 
-My diverse career experiences have feathered my nest with integral skills like communication, collaboration, detail-orientation, and time-management. Combined with my unwavering work ethic, full-stack technical skills, and emotional intelligence, I'm looking forward to exploring opportunities to make a difference as a developer.
+Whether through software development, music, or education, I've been fortunate to contribute to positive change and am continuously seeking opportunities to make an impact at the intersection of technology and human connection.
 
 blumen.allison@gmail.com
 
